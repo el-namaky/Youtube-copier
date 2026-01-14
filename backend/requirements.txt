@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+yt-dlp
+moviepy
+openai
+google-generativeai
+google-cloud-texttospeech
+ffmpeg-python

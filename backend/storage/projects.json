@@ -1,0 +1,35 @@
+{
+    "1767747918483": {
+        "id": "1767747918483",
+        "created_at": 1767747918.7974837,
+        "name": "Project 1767747918483",
+        "status": "failed",
+        "progress": 10,
+        "log": [
+            "03:05:18 - Initializing workflow",
+            "03:05:18 - Downloading: تاتانىنتتى",
+            "03:05:19 - \u001b[0;31mERROR:\u001b[0m [generic] 'تاتانىنتتى' is not a valid URL. Set --default-search \"ytsearch\" (or run  yt-dlp \"ytsearch:تاتانىنتتى\" ) to search YouTube"
+        ]
+    },
+    "1767748986923": {
+        "id": "1767748986923",
+        "created_at": 1767748987.2455034,
+        "name": "Project 1767748986923",
+        "status": "completed",
+        "progress": 100,
+        "log": [
+            "03:23:07 - Initializing workflow",
+            "03:23:07 - Downloading: https://www.youtube.com/@fme-lb3ty/shorts",
+            "03:23:10 - Starting step: source",
+            "03:23:10 - Starting step: source",
+            "03:23:10 - Starting step: edit",
+            "03:23:10 - Starting step: composer",
+            "03:23:10 - Starting step: transcribe",
+            "03:23:10 - Starting step: translate",
+            "03:23:10 - Starting step: composer",
+            "03:23:10 - Starting step: render",
+            "03:23:10 - Workflow finished successfully"
+        ],
+        "output_video": "storage\\projects\\1767748986923\\UCEIEy2CdI65YyvoPTG12bVA.NA"
+    }
+}

@@ -1,0 +1,12 @@
+Attempting to import main...
+Exception during import:
+Traceback (most recent call last):
+  File "H:\projectapp\youtube copier\backend\debug_import.py", line 7, in <module>
+    import main
+  File "H:\projectapp\youtube copier\backend\main.py", line 10, in <module>
+    from services.engine import process_video
+  File "H:\projectapp\youtube copier\backend\services\engine.py", line 3, in <module>
+    from .youtube import download_video
+  File "H:\projectapp\youtube copier\backend\services\youtube.py", line 2, in <module>
+    import yt_dlp
+ModuleNotFoundError: No module named 'yt_dlp'
