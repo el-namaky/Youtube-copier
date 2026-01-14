@@ -1,6 +1,8 @@
 node_modules/
+backend/venv/
 .venv/
 .vscode/
-backend/__pycache__/
 dist/
 .env
+__pycache__/
+*.pyc
